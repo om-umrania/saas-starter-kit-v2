@@ -1,0 +1,7 @@
+# Ignore unnecessary folders
+node_modules
+.next
+.env*
+dist
+build
+out
